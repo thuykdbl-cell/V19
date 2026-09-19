@@ -1,0 +1,6 @@
+{
+  "name": "VinaPhone VNPT - Dịch vụ Di động & 5G Siêu Tốc",
+  "description": "Cổng thông tin và đăng ký gói cước di động VinaPhone VNPT: 5G siêu tốc, gọi thả ga, truyền hình MyTV, vnGenAI và tư vấn thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
